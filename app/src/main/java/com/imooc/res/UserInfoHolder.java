@@ -7,6 +7,7 @@ import com.imooc.res.utils.SPUtils;
 
 /**
  * Created by zhy on 16/10/23.
+ * update by allen
  */
 public class UserInfoHolder {
 
